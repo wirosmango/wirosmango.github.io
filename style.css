@@ -2,3 +2,38 @@ img {
     width: 300px;
     height: 300px;
 }
+html {
+  font-size: 10px;
+  font-family: Google Sans
+}
+h1 {
+    color: #ffffff
+}
+h1 {
+    font-size: 48;
+}
+html {
+    background-color: black;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: black;
+  padding: 200px 20px 20px 20px;
+  border: 0px;
+}
+.container {
+  position: relative; /* родительский блок для привязки */
+}
+
+button {
+  position: absolute; /* кнопка летает над блоком */
+  top: 250px; /* расстояние сверху */
+  right: 670px; /* расстояние справа */
+}
+button {
+  background-color: black;
+  border: 5px solid white;
+  color: #ffffff;
+  font-family: Google Sans;
+}
